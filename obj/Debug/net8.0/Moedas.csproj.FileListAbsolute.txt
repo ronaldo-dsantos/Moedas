@@ -1,0 +1,14 @@
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\bin\Debug\net8.0\Moedas.exe
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\bin\Debug\net8.0\Moedas.deps.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\bin\Debug\net8.0\Moedas.runtimeconfig.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\bin\Debug\net8.0\Moedas.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\bin\Debug\net8.0\Moedas.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfoInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfo.cs
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.csproj.CoreCompileInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\refint\Moedas.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\Moedas.genruntimeconfig.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Moedas\obj\Debug\net8.0\ref\Moedas.dll
